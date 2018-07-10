@@ -11,7 +11,7 @@ puts "What is the host's name?"
 host_name= gets.chomp
 
 
-puts "Dear #{name}
+puts "Dear #{name},
 You are cordially invited to the #{party_name} on #{time}. Please RVSP no later than #{date}.
 
 Sincerely,
